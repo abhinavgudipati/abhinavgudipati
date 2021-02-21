@@ -44,8 +44,7 @@ const abhinavgudipati = {
 
 </br>
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-lohan&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true alt="shubham-lohan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-lohan&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="shubham-lohan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavgudipati&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true alt="abhinavgudipati" /></p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
