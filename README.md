@@ -4,7 +4,7 @@
 <p><em>Computer Science and Applied Math Grad at <a href="https://www.iiitd.ac.in/">IIIT Delhi</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
-[![Linkedin: Abhinav Gudipati](https://img.shields.io/badge/-Abhinav Gudipati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gudipati-609794197/)](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
+[![Linkedin: Abhinav Gudipati](https://img.shields.io/badge/-abhinavgudipati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gudipati-609794197/)](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
 [![GitHub abhinavgudipati](https://img.shields.io/github/followers/abhinavgudipati?label=follow&style=social)](https://github.com/abhinavgudipati)  
 </div>
 
