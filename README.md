@@ -37,15 +37,11 @@ A Computer Science stduent from India
 
 ## Technology Stack
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript&link=https://github.com/abhinavgudipati/)](https://github.com/abhinavgudipati/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/abhinavgudipati/)](https://github.com/abhinavgudipati/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/abhinavgudipati/)](https://github.com/abhinavgudipati/)
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=abhinavgudipati&show_icons=true">
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/abhinavgudipati/)](https://github.com/abhinavgudipati/)
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/abhinavgudipati/)](https://github.com/abhinavgudipati/)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/abhinavgudipati/)](https://github.com/abhinavgudipati/)
+[![C](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=C&link=https://github.com/abhinavgudipati/)](https://github.com/abhinavgudipati/)
 
 [![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/abhinavgudipati/)](https://github.com/abhinavgudipati/)
 [![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/abhinavgudipati/)](https://github.com/abhinavgudipati/)
