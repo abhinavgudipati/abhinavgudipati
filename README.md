@@ -43,6 +43,9 @@ Where to find me:
 	<a target="_blank" rel="noopener noreferrer" href="https://github.com/abhinavgudipati" target="_blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="30" width="40" />
 	</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/12512406/deadlock" target="_blank">
+		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" alt="GitHub" height="30" width="40" />
+	</a>
 </p>
 
 <h3 align="left">
@@ -52,6 +55,9 @@ Languages and Tools:
 	<a href="https://www.cprogramming.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 	</a>
+	<a href="https://www.w3schools.com/cpp/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+	</a>
 	<a href="https://www.java.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 	</a>
@@ -60,6 +66,9 @@ Languages and Tools:
 	</a>
 	<a href="https://git-scm.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
+	</a>
+	<a href="https://www.mysql.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="40" height="40"/>
 	</a>
 	<a href="https://www.w3.org/html/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
