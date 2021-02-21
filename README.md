@@ -46,7 +46,7 @@ const abhinavgudipati = {
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavgudipati&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true alt="abhinavgudipati" />
 </p>
 <p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=0deadLock0&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="0deadLock0" />
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavgudipati&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="abhinavgudipati" />
 </p>
 
 </br>
