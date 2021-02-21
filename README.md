@@ -29,14 +29,3 @@ or <a href="mailto:abhinav19227@iiitd.ac.in"><b>email</b></a> me.
 ---
 [![HitCount](http://hits.dwyl.com/abhinavgudipati/abhinavgudipati.svg)](http://hits.dwyl.com/abhinavgudipati/abhinavgudipati)
 
-<i>Follow me around the web:</i><br>
-
-  <!-- <a target="_blank" href="https://www.linkedin.com/in/abhinav-gudipati-609794197/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
-  <a target="_blank" href="https://www.instagram.com/abhinavvgudipatii/">🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​</a> ●
-
-<a href="https://www.linkedin.com/in/abhinav-gudipati-609794197/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/abhinavvgudipatii" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-</div>
-
-<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/abhinav-gudipati-609794197/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/abhinavvgudipatii/)-->
-
