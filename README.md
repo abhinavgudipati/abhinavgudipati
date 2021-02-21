@@ -42,13 +42,6 @@ const abhinavgudipati = {
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavgudipati&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Abhinav Gudipati's Github Stats">
 
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavgudipati&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true alt="abhinavgudipati" />
-</p>
-<p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavgudipati&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="abhinavgudipati" />
-</p>
-
 </br>
 </br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
