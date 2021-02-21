@@ -38,6 +38,8 @@ const abhinavgudipati = {
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavgudipati&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="abhinavgudipati's Github Stats">
 
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+
 </br>
 </br>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
