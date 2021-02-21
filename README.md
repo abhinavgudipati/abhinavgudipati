@@ -30,57 +30,23 @@ A Computer Science stduent from India
 </p>
 
 
-<h3 align="left">
-Where to find me:
-</h3>
-<p align="left">
-	<a target="_blank" rel="noopener noreferrer" rel=" noopener noreferrer" target="_blank" href="mailto:abhinav19227@iiitd.ac.in" >
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/gmail.svg" alt="Gmail" height="30" width="40" >
-		</a>
-	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/abhinav-gudipati-609794197/" target="_blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="Linkedin" height="30" width="40" />
-	</a>
-	<a target="_blank" rel="noopener noreferrer" href="https://github.com/abhinavgudipati" target="_blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="30" width="40" />
-	</a>
-	<a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/12512406/deadlock" target="_blank">
-		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" alt="GitHub" height="30" width="40" />
-	</a>
-</p>
 
-<h3 align="left">
-Languages and Tools:
-</h3>
-<p align="left">
-	<a href="https://www.cprogramming.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-	</a>
-	<a href="https://www.w3schools.com/cpp/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-	</a>
-	<a href="https://www.java.com" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-	</a>
-	<a href="https://www.python.org" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-	</a>
-	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
-	</a>
-	<a href="https://www.mysql.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="40" height="40"/>
-	</a>
-	<a href="https://www.w3.org/html/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-	</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://https://www.linkedin.com/in/abhinav-gudipati-609794197/)](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:abhinav19227@iiid.ac.in)](mailto:abhinav19227@iiid.ac.in)
 
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavgudipati&show_icons=true&locale=en&layout=flat&theme=highcontrast&title_color=42f584&hide_border=true alt="abhinavgudipati" />
-</p>
-<p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavgudipati&show_icons=true&theme=highcontrast&title_color=42f584&icon_color=f53f2b&hide_border=true&count_private=true&line_height=40" alt="abhinavgudipati" />
-</p>
+
+## Technology Stack
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=itissandeep98&show_icons=true">
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+
+[![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
