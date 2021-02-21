@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/abhinavgudipati/abhinavgudipati/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi, I'm Abhinav Gudipati! </h2>
 </div>
 
 <div align="center" width="50">
@@ -13,7 +13,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 Ask me anything <a href="https://github.com/abhinavgudipati/abhinavgudipati/issues/new"><b>here</b></a><br>
 or <a href="mailto:abhinav19227@iiitd.ac.in"><b>email</b></a> me.
 
-```Java
+```Javascript
 const abhinavgudipati = {
   pronouns: "he" | "him",
   code: [Java, Python, C++, C, Matlab, R],
