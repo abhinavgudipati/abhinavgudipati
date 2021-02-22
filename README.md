@@ -23,7 +23,7 @@
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/abhinavgudipati/abhinavgudipati/issues/new"><b>here</b></a><br>
-or <a href="mailto:abhinav19227@iiitd.ac.in"><b>email</b></a> me.<br>I also play chess at a noob level! Up for a game? Hit me up!.<a href="https://lichess.org/@/abhinavgudipati"></br></a>
+or <a href="mailto:abhinav19227@iiitd.ac.in"><b>email</b></a> me.<br>I also play chess at a noob level! Up for a game? Hit me up!.<a href="https://lichess.org/@/abhinavgudipati"><b>LiChess Profile</b></br></a>
 
 ```Javascript
 const abhinavgudipati = {
