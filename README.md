@@ -7,7 +7,6 @@
 [![GitHub abhinavgudipati](https://img.shields.io/github/followers/abhinavgudipati?label=follow&style=social)](https://github.com/abhinavgudipati)  
 
 [![Linkedin: Abhinav Gudipati](https://img.shields.io/badge/-abhinavgudipati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhinav-gudipati-609794197/)](https://www.linkedin.com/in/abhinav-gudipati-609794197/)
-[![Instagram Badge](https://img.shields.io/badge/-abhinavgudipati-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/abhinavvgudipatii/)](https://www.instagram.com/abhinavvgudipatii/)
 [![Gmail Badge](https://img.shields.io/badge/-abhinavgudipati-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinav19227@iiitd.ac.in)](mailto:abhinav19227@iiitd.ac.in)
 [![Personal Website Badge](https://img.shields.io/badge/-abhinavgudipati-d14836?style=flat-square&logo=website&logoColor=blue&link=https://abhinavgudipati.github.io/)](https://abhinavgudipati.github.io/)
 
