@@ -27,7 +27,7 @@ or <a href="mailto:abhinav19227@iiitd.ac.in"><b>email</b></a> me.<br>I also play
 ```Javascript
 const abhinavgudipati = {
   pronouns: "he" | "him",
-  code: [Java, Python, C++, C, Matlab, R],
+  code: [Java, Python, C++, C],
   interests: Bioinformatics , Intersection of Medicine and Computer Science, 
  challenge: "I am presently pursuing my Research Interests in the above mentioned fields!"
 }
